@@ -4,7 +4,7 @@
 ## About
 
 TemplateBufferpool is a simple template for the students of CS 561. It can be used for the systems projects where the student need
-to implement a simple buffermanage of a DBMS. Note that this is a simple template, it is
+to implement a simple buffer manager of a DBMS. Note that this is a simple template, it is
 not extensive, rather it is meant to help guide you on what we expect when
 you implement the bufferpool. You can use this as base code or start from scratch.
 
